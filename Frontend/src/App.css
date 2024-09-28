@@ -19,6 +19,7 @@ table {
   height: 100%;
   border-collapse: collapse;
   color: #000;
+  text-align: left;
 
   thead tr {
     padding: 0.2rem;
@@ -30,6 +31,9 @@ table {
 
   tbody tr {
     border-bottom: 0.1rem solid #c9c9c9;
+    td {
+      padding-right: 1rem;
+    }
   }
 }
 

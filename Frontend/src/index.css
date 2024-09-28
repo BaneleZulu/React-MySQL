@@ -19,6 +19,7 @@ body {
   place-items: center;
   width: 100dvw;
   height: 100dvh;
+  background-color: #fefefe;
 }
 
 @media (prefers-color-scheme: light) {
